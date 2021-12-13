@@ -8,7 +8,7 @@ To use the password generator, simply click on the URL in the description above,
 
 ## Usage
 This generator is used to create a randomized secure password. It allows the user to choose whether they want uppercase, lowercase, numbers added, and/or special characters in their password. This allows the user to create a password to their specific needs.
-(assets/images/generator.JPG)
+!(assets/images/generator.JPG)
 
 ## Credits
 The html and css files were both created by CWRU Coding Bootcamp.
